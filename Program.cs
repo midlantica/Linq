@@ -75,64 +75,64 @@ namespace LinqAndCollections
             {
                 new Student()
                 {
-                FirstName = "Amanda",
-                LastName = "King",
-                Age = 1581,
-                FavoriteBreakoutRoom = "Stan the Vegetable Man",
-                IsBrendasAngel = true
+                    FirstName = "Amanda",
+                    LastName = "King",
+                    Age = 1581,
+                    FavoriteBreakoutRoom = "Stan the Vegetable Man",
+                    IsBrendasAngel = true
                 },
                 new Student()
                 {
-                FirstName = "Zach",
-                LastName = "McWhirter",
-                Age = 312,
-                FavoriteBreakoutRoom = "World's Largest Mailbox",
-                IsBrendasAngel = true
+                    FirstName = "Zach",
+                    LastName = "McWhirter",
+                    Age = 312,
+                    FavoriteBreakoutRoom = "World's Largest Mailbox",
+                    IsBrendasAngel = true'
                 },
                 new Student()
                 {
-                FirstName = "Kelley",
-                LastName = "Crittenden",
-                Age = 602,
-                FavoriteBreakoutRoom = "Whittlin",
-                IsBrendasAngel = true
+                    FirstName = "Kelley",
+                    LastName = "Crittenden",
+                    Age = 602,
+                    FavoriteBreakoutRoom = "Whittlin",
+                    IsBrendasAngel = true
                 },
                 new Student()
                 {
-                FirstName = "Rob",
-                LastName = "Mixon",
-                Age = 2,
-                FavoriteBreakoutRoom = "Hardee's Parking Lot",
-                IsBrendasAngel = true
+                    FirstName = "Rob",
+                    LastName = "Mixon",
+                    Age = 2,
+                    FavoriteBreakoutRoom = "Hardee's Parking Lot",
+                    IsBrendasAngel = true
                 },
                 new Student()
                 {
-                FirstName = "John",
-                LastName = "Hester",
-                Age = 153,
-                FavoriteBreakoutRoom = "Whittlin",
-                IsBrendasAngel = false
+                    FirstName = "John",
+                    LastName = "Hester",
+                    Age = 153,
+                    FavoriteBreakoutRoom = "Whittlin",
+                    IsBrendasAngel = false
                 },
                 new Student()
                 {
-                FirstName = "Drew",
-                LastName = "Harper",
-                Age = 201,
-                FavoriteBreakoutRoom = "The Lobster Pot",
-                IsBrendasAngel = false
+                    FirstName = "Drew",
+                    LastName = "Harper",
+                    Age = 201,
+                    FavoriteBreakoutRoom = "The Lobster Pot",
+                    IsBrendasAngel = false
                 },
                 new Student()
                 {
-                FirstName = "Andy",
-                LastName = "Collins",
-                Age = 3,
-                FavoriteBreakoutRoom = "Whittlin",
-                IsBrendasAngel = false
+                    FirstName = "Andy",
+                    LastName = "Collins",
+                    Age = 3,
+                    FavoriteBreakoutRoom = "Whittlin",
+                    IsBrendasAngel = false
                 }
 
             };
 
-            //CAN WE SEE JUST THEIR LAST NAMES??????? 
+            //CAN WE SEE JUST THEIR LAST NAMES???????
             // students.ForEach(student => Console.WriteLine($"{student.LastName}"));
 
             //...OKAY COOL BUT CAN WE HAVE A LIST OF JUST... LAST....  NAMES???????????
